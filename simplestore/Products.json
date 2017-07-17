@@ -217,7 +217,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"inventoryQuantity": 100,
-	"title": "Size 11"
+	"title": "Size 11",
+  "isVisible": true
 },
 {
 	"_id": "kXcxPaczbLP8SLjhk",
@@ -234,7 +235,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"inventoryQuantity": 100,
-	"title": "Size 9"
+	"title": "Size 9",
+  "isVisible": true
 },
 {
 	"_id": "uTWJ2DiAZZgq4q8TY",
@@ -251,7 +253,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"inventoryQuantity": 100,
-	"title": "Size 10"
+	"title": "Size 10",
+  "isVisible": true
 },
 {
 	"_id": "G27pYihDTHJoMv6Co",
@@ -268,7 +271,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"inventoryQuantity": 100,
-	"title": "Size 11"
+	"title": "Size 11",
+  "isVisible": true
 },
 {
 	"_id": "LXECo6pZectbeHYEi",
@@ -329,7 +333,8 @@
 	"taxCode": "00000",
 	"title": "Black",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "5yJvQgc2Q2efGce79",
@@ -345,7 +350,8 @@
 	"taxCode": "00000",
 	"weight": 3,
 	"title": "Red",
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "XfC4E4R58tJw5fCJq",
@@ -362,7 +368,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "DAv2QJJWw5yAFW2RE",
@@ -379,7 +386,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "NmfpHpfHpZJtbDP8F",
@@ -396,7 +404,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "HnJDtxDz35v38sdiW",
@@ -413,7 +422,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "w8SwdHAsPqcwDJe57",
@@ -430,7 +440,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "sw7W5Pj44HbivqRZY",
@@ -447,7 +458,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "hPYwaFDX4dp9vocNY",
@@ -508,7 +520,8 @@
 	"taxCode": "00000",
 	"title": "Yellow",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "pLirDoY46LycrjSy4",
@@ -525,7 +538,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "ibx6oBTcqgnwYJjLE",
@@ -542,7 +556,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "ewg632T6AHKhNisuP",
@@ -559,7 +574,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "MGStoBoTZHNcSJrtf",
@@ -619,7 +635,8 @@
 	"taxCode": "00000",
 	"title": "Black",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "JRRsiqoNEG5nnTudH",
@@ -636,7 +653,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "qfoWdYmftFwQbypDb",
@@ -653,7 +671,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "RW5gB4e8zh7fgDm6y",
@@ -670,7 +689,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "xe3uaXSNzNZdQbyTP",
@@ -731,7 +751,8 @@
 	"taxCode": "00000",
 	"title": "Red",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "KSge4EordzLTJgFta",
@@ -748,7 +769,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "eE8gipSbRRfyZHqMA",
@@ -765,7 +787,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "MxxE3Radjvws7DMGL",
@@ -782,7 +805,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "SDtdoRMfhWv5yTrLH",
@@ -842,7 +866,8 @@
 	"taxCode": "00000",
 	"title": "Black/Turquoise",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "aLMmwehg3zB9g4Fkv",
@@ -859,7 +884,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "c7D4MXRwBNeSRHXPZ",
@@ -876,7 +902,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "SHgjrwv3EFGsr3H9D",
@@ -893,7 +920,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "9Pa6qdfXa7y5pQBoY",
@@ -953,7 +981,8 @@
 	"taxCode": "00000",
 	"title": "Pink/Black",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "8e8puQMMndFZCX73P",
@@ -970,7 +999,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "v3owmpajQjnGFz8Fs",
@@ -987,7 +1017,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "TgfciaEZy7fani5Bk",
@@ -1004,7 +1035,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "x6EY6r4jGJga8dAKK",
@@ -1065,7 +1097,8 @@
 	"taxCode": "00000",
 	"title": "Iridescent Pewter",
 	"weight": 3,
-	"inventoryQuantity": 0
+	"inventoryQuantity": 0,
+  "isVisible": true
 },
 {
 	"_id": "rmCqXuT8FLhDoc7KH",
@@ -1082,7 +1115,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 9",
 	"title": "Size 9",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "TCRX3to9nFrgn955Q",
@@ -1099,7 +1133,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 10",
 	"title": "Size 10",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "3QLJY45BbiAr42mH3",
@@ -1116,7 +1151,8 @@
 	"taxCode": "00000",
 	"optionTitle": "Size 11",
 	"title": "Size 11",
-	"inventoryQuantity": 100
+	"inventoryQuantity": 100,
+  "isVisible": true
 },
 {
 	"_id": "fkXgNBsWeK6fM3Gjc",
@@ -1131,7 +1167,8 @@
 	"taxable": true,
 	"taxCode": "00000",
 	"weight": 3,
-	"title": "Teal Shimmer"
+	"title": "Teal Shimmer",
+  "isVisible": true
 },
 {
 	"_id": "37TiX2h9MomnB4ric",
@@ -1145,7 +1182,8 @@
 	"inventoryPolicy": true,
 	"shopId": "J8Bhq3uTtdgwZx3rz",
 	"taxable": true,
-	"taxCode": "00000"
+	"taxCode": "00000",
+  "isVisible": true
 },
 {
 	"_id": "XaM9DS4JokZx84SN9",
@@ -1159,7 +1197,8 @@
 	"inventoryPolicy": true,
 	"shopId": "J8Bhq3uTtdgwZx3rz",
 	"taxable": true,
-	"taxCode": "00000"
+	"taxCode": "00000",
+  "isVisible": true
 },
 {
 	"_id": "y4ztRSmzkd5ZjzqMQ",
@@ -1173,5 +1212,6 @@
 	"inventoryPolicy": true,
 	"shopId": "J8Bhq3uTtdgwZx3rz",
 	"taxable": true,
-	"taxCode": "00000"
+	"taxCode": "00000",
+  "isVisible": true
 }]
